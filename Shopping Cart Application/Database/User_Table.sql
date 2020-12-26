@@ -1,0 +1,1 @@
+create table userReg (UID int primary key identity(1,1),UName varchar(50),UEmail varchar(50),UAddress varchar(100),UPassword varchar(10),UMobileno int);
